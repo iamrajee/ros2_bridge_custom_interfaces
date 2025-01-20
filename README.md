@@ -49,7 +49,7 @@ roscore
 
 # bridge
 source source_bridge.sh
-ros2 run ros1_bridge dynamic-bridge
+ros2 run ros1_bridge dynamic_bridge
 
 ### ros1 talker
 source source_ros1.sh
